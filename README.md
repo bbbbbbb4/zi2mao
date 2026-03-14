@@ -9,7 +9,9 @@
 
 ## 效果展示 (Demo)
 
-![测试结果示例]("C:\Users\高彬彬\Pictures\Screenshots\屏幕截图 2026-03-14 121855.png")
+![demo1](demo1.png)
+
+![demo2](demo2.png)
 
 ## 环境依赖 (Prerequisites)
 
