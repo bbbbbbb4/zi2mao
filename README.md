@@ -74,8 +74,3 @@ python test.py --dataroot ./my_font_dataset --name my_mao_font --model pix2pix -
 
 还有感谢伟大的书法家、政治家、军事家毛主席留下的墨宝！！
 
-```
-
-你现在可以用 `Ctrl + Shift + V` 预览一下，确认无误后就可以上传到 GitHub 了。如果你需要关于如何上传代码的具体 Git 命令行操作指导，随时告诉我。
-
-```
