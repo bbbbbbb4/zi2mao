@@ -1,0 +1,13 @@
+# 忽略模型权重文件和训练记录
+checkpoints/
+*.pth
+
+# 忽略数据集文件夹
+my_font_dataset/
+domain_A_mine/
+domain_B_mao/
+
+# 忽略缓存
+__pycache__/
+results/
+datasets/
