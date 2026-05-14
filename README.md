@@ -10,7 +10,6 @@
 
 ![demo1](demo1.png)
 
-![demo2](demo2.png)
 
 ## 环境依赖 (Prerequisites)
 
