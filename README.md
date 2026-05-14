@@ -1,6 +1,5 @@
 
 
-```markdown
 # Zi2Mao-Pix2Pix: 手写汉字到毛体书法的风格迁移
 
 本项目基于 [pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) 架构，旨在实现将个人的日常手写汉字自动转化为毛泽东书法风格（毛体）的图像到图像翻译模型。
